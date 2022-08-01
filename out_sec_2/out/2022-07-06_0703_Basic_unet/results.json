@@ -1,0 +1,342 @@
+{
+  "volume_stats": [
+    {
+      "filename": "hippocampus_393.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_014.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_298.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_224.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_171.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_099.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_126.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_033.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_095.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_089.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_034.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_108.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_087.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_253.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_084.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_094.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_152.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_130.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_042.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_233.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_378.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_038.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_064.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_249.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_162.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_020.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_372.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_250.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_177.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_308.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_169.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_290.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_356.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_217.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_048.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_194.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_276.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_015.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_228.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_368.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_331.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_170.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_046.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_124.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_091.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_101.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_221.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_155.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_109.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_133.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_173.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_156.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_107.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_314.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_019.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_336.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_277.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_057.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_338.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_268.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_216.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_163.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_287.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_053.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    },
+    {
+      "filename": "hippocampus_310.nii.gz",
+      "dice": -1,
+      "jaccard": NaN
+    }
+  ],
+  "overall": {
+    "mean_dice": -1.0,
+    "mean_jaccard": NaN
+  },
+  "config": {
+    "name": "Basic_unet",
+    "root_dir": "/home/workspace/src/data/",
+    "n_epochs": 8,
+    "learning_rate": 0.0002,
+    "batch_size": 8,
+    "patch_size": 64,
+    "test_results_dir": "/home/workspace/src/data/predictions/"
+  }
+}
